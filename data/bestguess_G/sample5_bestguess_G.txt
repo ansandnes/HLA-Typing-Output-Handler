@@ -1,0 +1,7 @@
+Locus	Chromosome	Allele	Q1	Q2	AverageCoverage	CoverageFirstDecile	MinimumCoverage	proportionkMersCovered	LocusAvgColumnError	NColumns_UnaccountedAllele_fGT0.2	perfectG
+HLA-A	1	HLA-A*23:01:01G	0.997	0.0	53.2	45.7	36	1.0	0.003	0	1
+HLA-A	2	HLA-A*29:02:01G	0.997	0.0	47.0	42.0	33	1.0	0.003	0	1
+HLA-B	1	HLA-B*40:01:01G	0.998	0.0	42.6	37.3	30	1.0	0.003	0	1
+HLA-B	2	HLA-B*08:01:01G	0.998	0.0	56.5	49.4	44	1.0	0.001	0	1
+HLA-C	1	HLA-C*07:02:01G	0.999	0.0	56.2	51.1	45	1.0	0.003	0	1
+HLA-C	2	HLA-C*03:04:01G	0.999	0.0	57.2	50.2	42	1.0	0.001	0	1
